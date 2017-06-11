@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataParseDemo.iml" filepath="$PROJECT_DIR$/DataParseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreferenceDemo/SharedPreferenceDemo.iml" filepath="$PROJECT_DIR$/SharedPreferenceDemo/SharedPreferenceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlserializableandparsedemo/xmlserializableandparsedemo.iml" filepath="$PROJECT_DIR$/xmlserializableandparsedemo/xmlserializableandparsedemo.iml" />
+    </modules>
+  </component>
+</project>
